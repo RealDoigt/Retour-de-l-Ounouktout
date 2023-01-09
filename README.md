@@ -8,4 +8,8 @@ Pour la majorité de ces personnes, ce fut un voyage avec aller simple vers le m
 1. Cette personne écriva un livre qui fourni plusieurs détails sur son séjours dans l'autre monde et sur les monstres qui l'habitent.
 2. C'est le proxy de l'Ounouktout. Un jour elle se métamorphosa, de son apparence à sa personalité et elle ouvrit des portails magiques qui permettaient de traverser aisément les deux mondes.
 
-Après la métamorphose complète du proxy, une invasion de l'horreur plongea la terre dans la chaos et la destruction, causant la mort de plus de 70% de la population mondiale et la fin de la civilisation telle qu'on l'a connaît. 
+Après la métamorphose complète du proxy, une invasion de l'horreur plongea la terre dans la chaos et la destruction, causant la mort de plus de 70% de la population mondiale, l'extinction d'une majorité des espèces animales sauvages¹ et la fin de la civilisation telle qu'on l'a connaît. Nous ne savons pas pourquoi ni comment, mais le proxy fut arrêté au moment où l'Ounouktout s'apprêtait à traverser un portail pour compléter la destruction de la vie sur terre 
+
+
+
+¹Hormis les animaux marins et les petits animaux tels que les rongeurs et les insectes.
