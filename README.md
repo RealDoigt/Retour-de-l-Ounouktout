@@ -12,4 +12,11 @@ Après la métamorphose complète du proxy, une invasion de l'horreur plongea la
 
 Malheuresement, nous sommes deux siècles plus tard et l'être humain n'a toujours pas reconquis son savoir ni son territoire. Les grandes villes sont infestés par la végétation, les bandits et les monstres. Les forêts sont tout aussi fréquentables. Seules quelques villes fortifiées, fondées après la fin du monde tel qu'on le connait, résistent encore. Mais pire encore, l'invasion a aussi introduit la magie noire dans le monde. Les sorciers ambitieux sont nombreux et leurs cruauté est sans borne.
 
-Dans ce monde post-apocalyptique où un homme peut en tuer un autre pour des miettes de pain, où les monstres chassent l'homme jusque dans les villes, où des organisations criminelles de sorciers noirs ou de gens autrement cruels contrôlent les villes, la survie de ce monde est plus menacé que jamais maintenant que tous les signes pointe vers un retour de l'Ounouktout. Le Proxy est de retour, les monstres sont plus nombreux que jamais et l'âme des trespassés nourrissent de nouveau les forces de l'horreur.
+Dans ce monde post-apocalyptique où un homme peut en tuer un autre pour des miettes de pain, où les monstres chassent l'homme jusque dans les villes, où des organisations criminelles de sorciers noirs ou de gens autrement cruels contrôlent les villes, la survie de ce monde est plus menacé que jamais maintenant que tous les signes pointe vers un retour imminent de l'Ounouktout. Le Proxy est fait sa réapparition, les monstres sont plus nombreux que jamais et l'âme des trespassés nourrissent de nouveau les forces de l'horreur.
+
+## Comment lire ce wiki
+
+Il est conseiller de commencer par la page d'accueil qui se trouve [ici](accueil.md). Elle contient une liste d'articles et de catégories desquelles la navigation sera plus aisé pour débuter.
+
+Il existe deux types de pages que vous rencontrerez en lisant ce wiki:
+* Les pages de type <Diégèse> qui servent à expliquer l'univers du jeu. Ces pages ne sont pas objectives; c'est-à-dire qu'elles sont écrites du point de vue des gens qui habitent le monde du Retour de l'Ounouktout. La première section est écrites du point de vue des quelques
